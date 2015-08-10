@@ -1,3 +1,7 @@
+The MIT License (MIT)
+
+Copyright (c) 2015 S74nk0 - Stanko Krstić
+
 #pragma once
 
 #include <array>
